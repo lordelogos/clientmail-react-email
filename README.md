@@ -11,26 +11,26 @@
    With Yarn
 
    ```sh
-   yarn add @client-mail/react-email
+   yarn add @clientmail/react-email
    ```
 
    With Npm
 
    ```sh
-   npm install @client-mail/react-email
+   npm install @clientmail/react-email
    ```
 
    With Pnpm
 
    ```sh
-   pnpm install @client-mail/react-email
+   pnpm install @clientmail/react-email
    ```
 
 2. Add it to the plugins when creating ClientMail class instance
 
    ```js
    // Add import statement
-   import { ReactEmailPlugin } from "@client-mail/react-email";
+   import { ReactEmailPlugin } from "@clientmail/react-email";
    import { ReactEmailTemplate } from "./emails";
 
    // Add to the ClientMail class instance

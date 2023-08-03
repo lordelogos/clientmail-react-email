@@ -1,5 +1,5 @@
 {
-  "name": "@client-mail/react-email",
+  "name": "@clientmail/react-email",
   "version": "0.0.1",
   "description": "Client-mail plugin for handling react-email templates",
   "main": "./dist/index.js",
@@ -8,7 +8,7 @@
   "scripts": {
     "build": "tsup",
     "lint": "tsc",
-    "release": "pnpm run build"
+    "release": "yarn build && npm publish --access public"
   },
   "keywords": [],
   "author": {
