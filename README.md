@@ -2,7 +2,7 @@
 
 <div align="center"><h1>@client-mail/react-email</h1></div>
 
-`@client-mail/react-email` is a plugin for `client-mail` that enables you send email templates built with [react-email](https://react.email).
+`@client-mail/react-email` is a plugin for [client-mail](https://github.com/lordelogos/clientmail.js) that enables you send email templates built with [react-email](https://react.email).
 
 ## Installation
 
@@ -61,7 +61,7 @@ When submitting a pull request, provide a clear description of the changes made 
 
 ## Bugs and Feature Requests
 
-For bugs and feature requests, [please create an issue](https://github.com/REPLACE_ME/issues/new/choose).
+For bugs and feature requests, [please create an issue](https://github.com/lordelogos/clientmail-react-email/issues/new/choose).
 
 ## Author
 
