@@ -1,6 +1,6 @@
 <div align="center"><img src="https://github.com/lordelogos/clientmail.js/assets/67395687/d4a32333-b592-465d-a1ae-04d5954d204a" alt="client mail logo"></div>
 
-<div align="center"><h1>@client-mail/react-email</h1></div>
+<div align="center"><h1>@clientmail/react-email</h1></div>
 
 `@client-mail/react-email` is a plugin for [client-mail](https://github.com/lordelogos/clientmail.js) that enables you send email templates built with [react-email](https://react.email).
 
@@ -69,4 +69,4 @@ For bugs and feature requests, [please create an issue](https://github.com/lorde
 
 ## License
 
-`@client-mail/react-email` is licensed under the MIT License.
+`@clientmail/react-email` is licensed under the MIT License.
