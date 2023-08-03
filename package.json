@@ -1,6 +1,6 @@
 {
   "name": "@clientmail/react-email",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Client-mail plugin for handling react-email templates",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
