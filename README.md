@@ -6,7 +6,7 @@
 
 ## Installation
 
-1. Add `@client-mail/react-email` to your project using your preferred package manager:
+1. Add `@clientmail/react-email` to your project using your preferred package manager:
 
    With Yarn
 
